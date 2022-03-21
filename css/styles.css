@@ -95,13 +95,13 @@
     /* color-1(#eabe7c)
      * color-2(#23967f)
      */
-    --color-1 : #9fafff;
+    --color-1 : hsl(230, 100%, 81%);
     --color-2 : hwb(168 14% 42%);
 
     /* theme color variations
      */
-    --color-1-lighter : hsla(36, 72%, 90%, 1);
-    --color-1-light   : hsla(36, 72%, 80%, 1);
+    --color-1-lighter : hsl(230, 100%, 81%);
+    --color-1-light   : hsl(36, 73%, 80%);
     --color-1-dark    : hsla(36, 72%, 60%, 1);
     --color-1-darker  : hsla(36, 72%, 50%, 1);
     --color-2-lighter : hsla(168, 62%, 56%, 1);
